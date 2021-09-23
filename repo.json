@@ -3,6 +3,10 @@
     "description": "This is the official package repository for sus93.",
     "packages": {
         "sus93": "https://raw.githubusercontent.com/parabirb/sus93/main/sus93.js",
-        "example-module": "https://raw.githubusercontent.com/parabirb/example-module/main/example-module.js"
+        "example-module": "https://raw.githubusercontent.com/parabirb/example-module/main/example-module.js",
+        "feh": "https://raw.githubusercontent.com/parabirb/pkg93-compat/master/feh.js",
+        "gs45": "https://raw.githubusercontent.com/parabirb/pkg93-compat/master/gs45.js",
+        "helloworld": "https://raw.githubusercontent.com/parabirb/pkg93-compat/master/helloworld.js",
+        "wget93": "https://raw.githubusercontent.com/parabirb/pkg93-compat/master/wget93.js"
     }
 }
