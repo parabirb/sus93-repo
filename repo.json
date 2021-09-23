@@ -2,6 +2,6 @@
     "name": "Official sus93 Repo",
     "description": "This is the official package repository for sus93.",
     "packages": {
-        "sus93": "https://cdn.jsdelivr.net/gh/parabirb/sus93/install.js"
+        "sus93": "https://cdn.jsdelivr.net/gh/parabirb/sus93/sus93.js"
     }
 }
