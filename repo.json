@@ -8,6 +8,7 @@
         "gs45": "https://raw.githubusercontent.com/parabirb/pkg93-compat/master/gs45.js",
         "helloworld": "https://raw.githubusercontent.com/parabirb/pkg93-compat/master/helloworld.js",
         "wget93": "https://raw.githubusercontent.com/parabirb/pkg93-compat/master/wget93.js",
-        "minecraft": "https://raw.githubusercontent.com/parabirb/pkg93-compat/master/minecraft.js"
+        "minecraft": "https://raw.githubusercontent.com/parabirb/pkg93-compat/master/minecraft.js",
+        "fnaf93": "https://raw.githubusercontent.com/parabirb/fnaf93/main/fnaf93.js"
     }
 }
