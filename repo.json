@@ -10,6 +10,7 @@
         "wget93": "https://raw.githubusercontent.com/parabirb/pkg93-compat/master/wget93.js",
         "minecraft": "https://raw.githubusercontent.com/parabirb/pkg93-compat/master/minecraft.js",
         "fnaf93": "https://raw.githubusercontent.com/parabirb/fnaf93/main/fnaf93.js",
-        "tmpsus": "https://raw.githubusercontent.com/parabirb/tmpsus/main/tmpsus.js"
+        "tmpsus": "https://raw.githubusercontent.com/parabirb/tmpsus/main/tmpsus.js",
+        "halflife2episode3": "https://raw.githubusercontent.com/Busybody64/Sus93-HalfLife2Episode3/main/HalfLife2Episode3.js"
     }
 }
