@@ -1,6 +1,6 @@
 {
     "name": "Official sus93 Repo",
-    "description": "This is the official package repository for sus93.",
+    "description": "This is the official package repository for sus93. Packages can be merged on request at https://github.com/parabirb/sus93-repo.",
     "packages": {
         "sus93": "https://raw.githubusercontent.com/parabirb/sus93/main/sus93.js",
         "example-module": "https://raw.githubusercontent.com/parabirb/example-module/main/example-module.js",
@@ -11,6 +11,14 @@
         "minecraft": "https://raw.githubusercontent.com/parabirb/pkg93-compat/master/minecraft.js",
         "fnaf93": "https://raw.githubusercontent.com/parabirb/fnaf93/main/fnaf93.js",
         "tmpsus": "https://raw.githubusercontent.com/parabirb/tmpsus/main/tmpsus.js",
-        "halflife2episode3": "https://raw.githubusercontent.com/Busybody64/Sus93-HalfLife2Episode3/main/HalfLife2Episode3.js"
+        "halflife2episode3": "https://raw.githubusercontent.com/Busybody64/Sus93-HalfLife2Episode3/main/HalfLife2Episode3.js",
+        "tips": "https://raw.githubusercontent.com/Busybody64/sus93-tips/main/tips.js",
+        "virsus": "https://raw.githubusercontent.com/Busybody64/sus93-virsus/main/VirSUS.js",
+        "clubpenguin": "https://raw.githubusercontent.com/Busybody64/sus93-ClubPenguinRewritten/main/ClubPenguinRewritten.js",
+        "yourworldoftext": "https://raw.githubusercontent.com/Busybody64/Sus93-YourWorldOfText/main/YourWorldOfText.js",
+        "sus93-trollbox": "https://raw.githubusercontent.com/Busybody64/Sus93-YourWorldOfText/main/YourWorldOfText.js",
+        "cyio-trollbox": "https://raw.githubusercontent.com/Busybody64/Sus93-CyioTrollboxParty/main/cyio-trollbox-party.js",
+        "appmanager-installer": "https://raw.githubusercontent.com/Busybody64/sus93-AppManager/main/InstallAppManager.js",
+        "memz": "https://raw.githubusercontent.com/Busybody64/sus93-memz/main/memz.js"
     }
 }
