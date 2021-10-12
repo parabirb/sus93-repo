@@ -19,6 +19,7 @@
         "sus93-trollbox": "https://raw.githubusercontent.com/Busybody64/Sus93-TrollboxParty/main/trollbox-party.js",
         "cyio-trollbox": "https://raw.githubusercontent.com/Busybody64/Sus93-CyioTrollboxParty/main/cyio-trollbox-party.js",
         "appmanager-installer": "https://raw.githubusercontent.com/Busybody64/sus93-AppManager/main/InstallAppManager.js",
-        "memz": "https://raw.githubusercontent.com/Busybody64/sus93-memz/main/memz.js"
+        "memz": "https://raw.githubusercontent.com/Busybody64/sus93-memz/main/memz.js",
+        "build93-installer": "https://raw.githubusercontent.com/Busybody64/Sus93-Build3D/main/InstallBuild3D.js"
     }
 }
